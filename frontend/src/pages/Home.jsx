@@ -17,7 +17,8 @@ const Home = () => {
         <div>
             {/* 🌱 Hero Section */}
             <section  className="hero-section text-center">
-                <h1 className="display-4 fw-bold">E-Waste Management</h1>
+                <h1 className="display-4 fw-bold">Tinrec.inc
+                </h1>
                 <p className="lead">
                     Dispose of electronic waste responsibly and contribute to a greener future.
                 </p>
@@ -63,6 +64,7 @@ const Home = () => {
                     </div>
                 </div>
             </section>
+
 
             {/* 🚀 How It Works? */}
             <section className="process-section text-center">

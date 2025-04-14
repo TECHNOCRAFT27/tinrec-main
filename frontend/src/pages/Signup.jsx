@@ -55,6 +55,7 @@ const Signup = () => {
                         required
                     />
                     <Button
+                        class="mt-3"
                         type="submit"
                         variant="contained"
                         color="primary"
@@ -65,7 +66,7 @@ const Signup = () => {
                     </Button>
                 </Box>
                 <Typography variant="body2" sx={{ mt: 3 }}>
-                    Already have an account? <a href="/login" style={{ color: "#2e7d32", textDecoration: "none" }}>Login here</a>.
+                    Already have an account? <a href="/login" style={{ color: "#00BECC", textDecoration: "none" }}>Login here</a>.
                 </Typography>
             </Container>
         </div>

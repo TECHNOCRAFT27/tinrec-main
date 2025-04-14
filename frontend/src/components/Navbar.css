@@ -1,6 +1,6 @@
 /* 🌿 Navbar Styling */
 .custom-navbar {
-  background-color: #00ff44; /* Dark blue */
+  background-color: #021447; /* Dark blue */
   padding: 10px 15px;
 }
 
@@ -16,12 +16,12 @@
 }
 
 .nav-link:hover {
-  color: #ffd700 !important; /* Gold hover effect */
+  color: #00fff7 !important; /* Gold hover effect */
 }
 
 /* 📦 Register Pickup Button */
 .register-pickup-btn {
-  background-color: #28a745; /* Green */
+  background-color: #25af45; /* Green */
   color: white;
   font-weight: bold;
   margin-right: 10px;

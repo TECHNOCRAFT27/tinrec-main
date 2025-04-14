@@ -41,7 +41,7 @@ const SubmitEWaste = () => {
             }}
         >
             <Container maxWidth="sm" sx={{ mt: 4, mb: 4 }}>
-                <Typography variant="h4" sx={{ textAlign: "center", color: "#2e7d32", fontWeight: "bold", mb: 3 }}>
+                <Typography variant="h2" sx={{ textAlign: "center", color: "#000", fontWeight: "bold", mb: 3 }}>
                     Submit E-Waste
                 </Typography>
                 <Box

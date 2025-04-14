@@ -19,7 +19,9 @@ const CustomNavbar = () => {
         <Navbar expand="lg" className="custom-navbar">
             <Container>
                 <Navbar.Brand as={Link} to="/" className="brand-title">
-                    E-Waste Management
+                    
+                Tinrec.inc
+
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
